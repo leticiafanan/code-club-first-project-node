@@ -13,7 +13,7 @@ app.use(express.json())
     - GET         => Buscar informações no back-end
     - POST        => Criar informações no back-end
     - PUT / PATCH => Alterar/Atualizar informaçãoes no back-end
-    - DELETE      => Deletar informações no back-end
+    - DELETE      => Deletar informações no back-end  //
 
     - Middleware => INTERCEPTADOR => Tem o poder de parar ou alterar dados da requisiçã0
 */

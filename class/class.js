@@ -18,6 +18,7 @@ newPerson.talk()
 
 class Persons {
     //método construtor - pode existir ou não
+    //alteracao
     constructor(name, age){
         console.log(`Hello, I'm ${name}`)
 
